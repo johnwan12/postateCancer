@@ -1,0 +1,21 @@
+"","variable","Group1","value"
+"1","agaricomycetes","Healthy Control",3.22959260940869
+"2","eurotiomycetes","Healthy Control",11.2254353817694
+"3","dothideomycetes","Healthy Control",49.014111190931
+"4","sordariomycetes","Healthy Control",5.66553078990133
+"5","saccharomycetes","Healthy Control",0.293255131932151
+"6","pezizomycetes","Healthy Control",0
+"7","microbotryomycetes","Healthy Control",0
+"8","tremellomycetes","Healthy Control",0
+"9","malasseziomycetes","Healthy Control",28.4215372616489
+"10","leotiomycetes","Healthy Control",2.1505376344086
+"11","agaricomycetes","Prostate cancer",4.04761904754422
+"12","eurotiomycetes","Prostate cancer",12.0683196296318
+"13","dothideomycetes","Prostate cancer",18.2052638863454
+"14","sordariomycetes","Prostate cancer",27.3192530450816
+"15","saccharomycetes","Prostate cancer",0.370370370333333
+"16","pezizomycetes","Prostate cancer",5.69292982579453
+"17","microbotryomycetes","Prostate cancer",1.66666666666667
+"18","tremellomycetes","Prostate cancer",5.92687834652994
+"19","malasseziomycetes","Prostate cancer",21.3693658487392
+"20","leotiomycetes","Prostate cancer",0
